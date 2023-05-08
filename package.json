@@ -3,8 +3,8 @@
     "version": "1.0.0",
     "main": "index.js",
     "repository": "git@github.com:miaomiaodepiao/miaomiaodepiao.github.io.git",
-    "author": "qinqian <550650698@qq.com>",
-    "license": "MIT",
+    "author": "miaomiaodepiao <550650698@qq.com>",
+    "license": "",
     "devDependencies": {
         "vuepress": "^1.9.9"
     },
